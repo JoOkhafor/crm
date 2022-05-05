@@ -1,0 +1,128 @@
+
+
+/*****************************
+@media (min-width: 992px) {
+ ****************************/
+ .lg-display-none{
+        display:none;
+    }
+
+ 
+
+/*************************************
+augmenter la taille u paing à 23px
+**************************************/
+
+.navbar .navbar-nav .nav-link {
+    padding: 10px 23px;
+}
+
+
+
+
+/***************************************
+Retier le mrgin top; ajouter un paing bottom
+****************************************/
+.btn-header {
+    padding-left: 20%!important;
+    padding-right: 20%!important;
+    padding-bottom: 8px;
+    
+}
+
+.agent.agent-03 .agent-avatar img {
+    height: 355px;
+}
+
+ 
+.property-details .property-info li {
+    padding: 15px 5px 10px;
+    font-size: 14px;
+}
+    
+
+    /*********************************
+ reudire la hauteur (max-width: 991px)
+    **********************************/
+
+    .banner-bg-slider {
+        top: 50%;
+        position: relative;
+        height: 570px;
+        overflow: hidden;
+    }
+
+    .category ul .category-item-1 a {
+        display: block;
+        padding: 24px;
+        height: 100%;
+        display: flex;
+    justify-content: flex-start;
+    }
+
+    .sm-pt-160 {
+        padding-top: 30 px!important;
+    }
+
+    .sm-mt-75 {
+        margin-top: 110px !important;
+    }
+
+        .md-display-none{
+display: none!important;
+   }
+
+
+
+    /**********************
+    Dinunier la hauteur
+    ************************/
+    .banner-bg-slider {
+        top: 50%;
+        position: relative;
+        height: 535px;
+        overflow: hidden;
+    }
+
+
+ 
+
+/******************/
+    .sm-pt-160 {
+        padding-top: 160px;
+    }
+
+
+/***********************
+style for new badge 
+************************/
+
+.space-between {
+    justify-content: space-between;
+}
+
+.badge-property{
+    background: #3165a8!important;
+}
+
+
+/***********************
+@media only screen and (max-width: 576px) {
+   **********************************/
+
+   .pt-xl {
+    margin-top: -250px!important;
+}
+
+
+/*****************************
+***************************/
+.property-search-field .property-search-item .search-form label { 
+    color: #fff;
+    font-size: 14px;
+    padding:7.5px 6px;
+    line-height: 1.6;
+    margin-bottom: 0px;
+
+}
+

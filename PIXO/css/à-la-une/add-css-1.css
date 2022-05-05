@@ -1,0 +1,41 @@
+.property-details .property-info {
+    margin-bottom: 0px ;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.property-details .property-info li {
+    padding: 15px 15px 10px;
+    font-size: 14px;
+}
+
+.property-details .property-info li i {
+    margin-right: 0; 
+    font-size: 20px;
+    color: #10648e;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+/***********************
+html 
+*********************/
+
+
+                     <div class="property-details-inner pt-50">
+
+                            <ul class="property-info list-unstyled">
+                              <li class=" property-bed"><a href="booster.html"><i class="fas fa-bookmark pr-1"></i>Mettre à la une</a> </li>
+
+                              <li class=" property-bed"><a href="booster.html"><i class="fas fa-bolt pr-1"></i>Booster</a> </li>
+
+                              <li class="property-bed "><a href="#"><i class="far fa-edit pr-1 "></i></a>Modifier</li>
+
+                              <li class=" property-bath"><a href="#" data-toggle="modal" data-target="#sup-annonce" ><i class="far fa-trash-alt text-danger pr-1"></i>Supprimer</a></li>
+
+                            </ul>
+                     </div>
