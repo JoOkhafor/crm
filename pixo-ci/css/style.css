@@ -5485,6 +5485,13 @@ span.multiselect-native-select select {
     color: #10648e;
 }
 
+.property-flex li i {
+    display: block;
+    margin-right: 0; 
+    font-size: 20px;
+    color: #10648e;
+}
+
 .property-details .property-info li span {
     color: #10648e;
     font-size: 18px;
